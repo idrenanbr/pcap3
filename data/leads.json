@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Alexandre",
+    "company": "FIAP",
+    "email": "a@b.com",
+    "stage": "novo",
+    "created": "2025-09-28"
+  },
+  {
+    "name": "João",
+    "company": "Alura",
+    "email": "b@c.com",
+    "stage": "novo",
+    "created": "2025-10-05"
+  },
+  {
+    "name": "Maria",
+    "company": "Alura",
+    "email": "maria@alura.com.br",
+    "stage": "novo",
+    "created": "2025-10-24"
+  },
+  {
+    "name": "João Silva",
+    "company": "Tech Corp",
+    "email": "joao@techcorp.com",
+    "created": "2025-10-27",
+    "stage": "novo"
+  },
+  {
+    "name": "Maria Santos",
+    "company": "Innovation Labs",
+    "email": "maria@innovation.com",
+    "created": "2025-10-27",
+    "stage": "contatado"
+  },
+  {
+    "name": "Renan Mano Otero",
+    "company": "FIAP",
+    "email": "renan@fiap.com.br",
+    "created": "2025-10-27",
+    "stage": "novo"
+  }
+]
